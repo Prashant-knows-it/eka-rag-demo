@@ -65,6 +65,8 @@ This demo is part of the [Early Knowledge Alignment](https://github.com/yxzwang/
 3. Make your changes
 4. Submit a pull request
 
+Credits to the original authors at https://github.com/yxzwang/EarlyKnowledgeAlignment for their groundbreaking work on improving multi-hop reasoning in RAG systems.
+
 ## License
 
 See the main project repository for licensing information.
